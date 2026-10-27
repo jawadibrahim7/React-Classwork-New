@@ -4,6 +4,7 @@ import StudentCArd from '../Components/StudentCArd'
 import Footer from '../Components/footer'
 import Pagination from '../Components/Pagination'
 
+
 const Home = () => {
   return (
     <>
